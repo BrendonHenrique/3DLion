@@ -6,9 +6,7 @@ import ModelViewer from '@/app/components/ModelViewer';
 
 const HomePage: React.FC = () => {
   return (
-    <ModelViewer>
-
-    </ModelViewer>
+    <ModelViewer />
   );
 };
 
